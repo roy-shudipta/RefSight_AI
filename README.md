@@ -127,3 +127,12 @@ python "Model Training/consensus_aggregation/aggregate_operating_ranges.py" \
 
 Bootstrap uncertainty and conditional logistic corroboration are described in
 [Model Training/README.md](<Model Training/README.md>).
+
+## Copyright
+
+Copyright © 2026 Shudipta Roy. All rights reserved.
+
+This code is provided for scholarly peer review and inspection. Access to this
+repository does not grant permission to copy, modify, distribute, sublicense,
+or reuse the code without prior written permission from the copyright holder,
+except where permitted by applicable law or GitHub's Terms of Service.
