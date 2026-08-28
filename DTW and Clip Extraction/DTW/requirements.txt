@@ -1,0 +1,5 @@
+numpy==1.26.4
+pandas==2.2.3
+pyarrow==14.0.2
+scikit-learn==1.6.1
+numba==0.59.0
